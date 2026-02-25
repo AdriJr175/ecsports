@@ -1,22 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/v8q8ghkd/sup3rl1g4_4rg3nt1n.png" group-title="🗓️ EVENTOS DEL DÍA", EVENTO 1 | L1g4 Arg3ntina | Pl4tense Vs D3fn y Just - C3ntral C0rdoba Vs T4lleres C0rdoba - G1imnasia M3ndoza Vs Ind3pendiente |
-http://campstvpro.com:8080/live/MoriRm/sUTSSn2uQbnD/536766.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/v8q8ghkd/sup3rl1g4_4rg3nt1n.png" group-title="🗓️ EVENTOS DEL DÍA", EVENTO 2 | L1g4 Arg3ntina | S4n L0renzo Vs Institut0 - B3lgrano Vs Atl3tico Tucum4n | €$PN Pr3mium Arg
-http://campstvpro.com:8080/live/MoriRm/sUTSSn2uQbnD/536765.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/Gm9L4kFb/spn1mar.png" group-title="🗓️ EVENTOS DEL DÍA", EVENTO 3 | Ch4mpi0ns L3ague - Pl4yoff | Atl3tico M4drid Vs Çlub Brugg3 - Int3r M1lan Vs B0do Gl1mt | €$PN1
-http://campstvpro.com:8080/live/MoriRm/sUTSSn2uQbnD/536764.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/L8h9Jzzv/6.png" group-title="🗓️ EVENTOS DEL DÍA", EVENTO 4 | Ch4mpions L3ague - Pl4yoff | 15:00pm UTC-5 | B4yer L3verkusen Vs 0lympiacos | €$PN2
-http://campstvpro.com:8080/live/MoriRm/sUTSSn2uQbnD/536763.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/nhMFXvv1/5.png" group-title="🗓️ EVENTOS DEL DÍA", EVENTO 5 | Ch4mpions L3ague - Pl4yoff | 15:00pm UTC-5 | N3wcastle Vs Q4rabag | €$PN5
-http://campstvpro.com:8080/live/MoriRm/sUTSSn2uQbnD/536762.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/G3BxxNbT/spn1mar.png" group-title="🗓️ EVENTOS DEL DÍA", EVENTO 6 | C0pa L1b3rtadores | Hu4chipato Vs Çarabobo - $p0rting Cr1stal Vs 2 de M4yo | €$PN1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/G3BxxNbT/spn1mar.png" group-title="🗓️ EVENTOS DEL DÍA", 17:00 | Copa Libertadores | Huachipato Vs Carabobo
 http://campstvpro.com:8080/live/MoriRm/sUTSSn2uQbnD/536761.ts
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/14htG4s6/2.png" group-title="🗓️ EVENTOS DEL DÍA", EVENTO 7 | C0p4 L1bertadores | 19:30pm UTC-5 | M3dellin Vs L1v3rpool | €$PN2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="🗓️ EVENTOS DEL DÍA", 19:00 | Sporting Cristal Vs 2 de Mayo
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/14htG4s6/2.png" group-title="🗓️ EVENTOS DEL DÍA", 19:30 | C0p4 L1bertadores | M3dellin Vs L1v3rpool
 http://campstvpro.com:8080/live/MoriRm/sUTSSn2uQbnD/536759.ts
 
