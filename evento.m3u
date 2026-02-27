@@ -1,26 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/bv9pz91P/l1g4_c0lmb1a.png" group-title="EVENTOS DEL DÍA", EVENTO 1 | L1g4 C0lombia | 19:30pm UTC-5 | M1ll0narios Vs D3p P3reira | W1n$p0rts
-http://goflixpro.com:8080/live/paul981237950/paul2204/561249.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/v8q8ghkd/sup3rl1g4_4rg3nt1n.png" group-title="EVENTOS DEL DÍA", EVENTO 2 | L1g4 Arg3ntina | R4cing Çlub Vs Ind3pendiente Riv4davia - €studiantes R1o Cu4rto Vs Hur4can | €$PN Pr3mium Arg
-http://goflixpro.com:8080/live/paul981237950/paul2204/561252.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/v8q8ghkd/sup3rl1g4_4rg3nt1n.png" group-title="EVENTOS DEL DÍA", EVENTO 3 | L1g4 Arg3ntina | S4rmiento Vs Un1on S4nta F3 - R1ver Pl4te Vs B4nfield | Tñt$p0rts
-http://goflixpro.com:8080/live/paul981237950/paul2204/561255.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/ZKMhp8h5/image.png" group-title="EVENTOS DEL DÍA", EVENTO 4 | €ur0pa L3ague | $tuttgart Vs Çeltic - Ç3lta Vs P4OK | €$PN1
-http://goflixpro.com:8080/live/paul981237950/paul2204/561258.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/cHmpHYcz/image.png" group-title="EVENTOS DEL DÍA", EVENTO 5 | €uropa L3ague | Çrvena Zv3zda Vs L1lle - N0ttingh4m F0rest Vs F3nerb4hce | €$PN2
-http://goflixpro.com:8080/live/paul981237950/paul2204/561261.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/x8ZFJPNB/image.png" group-title="EVENTOS DEL DÍA", EVENTO 6 | €uropa L3ague | F3rencvaros Vs Lud0gorets - G3nk Vs D1namo | €$PN3
-http://goflixpro.com:8080/live/paul981237950/paul2204/561264.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/Ghk5hvhJ/image.png" group-title="EVENTOS DEL DÍA", EVENTO 7 | €uropa L3ague | Vikt0ria Vs P4nathin4ikos - B0logna Vs $K Br4nn | €$PN4
-http://goflixpro.com:8080/live/paul981237950/paul2204/561267.ts
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/bNHmj83m/image.png" group-title="EVENTOS DEL DÍA", EVENTO 8 | R3copa Sud4mericana - FINAL | 19:30pm UTC-5 | Fl4mengo Vs L4nus | €$PN1
 http://goflixpro.com:8080/live/paul981237950/paul2204/561270.ts
 
@@ -29,10 +8,3 @@ http://goflixpro.com:8080/live/paul981237950/paul2204/561273.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/66McpzdB/image.png" group-title="EVENTOS DEL DÍA", EVENTO 10 | Amistoso | 20:00pm UTC-5 | Int3r Mi4mi Vs Ind3pendiente del V4lle | Opcion 2
 http://goflixpro.com:8080/live/paul981237950/paul2204/561276.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/PfLQQcdk/7.png" group-title="EVENTOS DEL DÍA", EVENTO 11 | C0pa L1bertadores | 17:00pm UTC-5 | Çlub Gu4rani Vs Juv3ntud | €$PN1
-http://goflixpro.com:8080/live/paul981237950/paul2204/561279.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/23R6Q3rh/8.png" group-title="EVENTOS DEL DÍA", EVENTO 12 | C0pa L1bertad0res | 19:30pm UTC-5 | D3p T0lima Vs D3p T4chira | €$PN2
-http://goflixpro.com:8080/live/paul981237950/paul2204/561282.ts
-
