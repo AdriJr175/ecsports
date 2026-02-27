@@ -1,10 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfsNVIa8RcOkMfNQpdN121_mLTeBI_dBW2hbrdov3cDtfeeybP6NwOQAN_&s=10" group-title="EVENTOS DEL DÍA", 13:45 | PORTO vs AUROCA
+http://goflixpro.com:8080/live/paul981237950/paul2204/554520.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/bNHmj83m/image.png" group-title="EVENTOS DEL DÍA", EVENTO 8 | R3copa Sud4mericana - FINAL | 19:30pm UTC-5 | Fl4mengo Vs L4nus | €$PN1
-http://goflixpro.com:8080/live/paul981237950/paul2204/561270.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.independent.co.uk/2023/01/04/20/2023-01-04T201437Z_382502431_UP1EJ141K8ADZ_RTRMADP_3_SOCCER-ENGLAND-AVA-WLV-REPORT.JPG?width=1200" group-title="EVENTOS DEL DÍA", 15:00 | Wolverhampton vs Aston villa
+http://goflixpro.com:8080/live/paul981237950/paul2204/561249.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/66McpzdB/image.png" group-title="EVENTOS DEL DÍA", EVENTO 9 | Amistoso | 20:00pm UTC-5 | Int3r Mi4mi Vs Ind3pendiente del V4lle | Opcion 1
-http://goflixpro.com:8080/live/paul981237950/paul2204/561273.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHveLpWIjvReUREYRDS4tgL0WhJcw4bZPkVoyuMF83NI4WTXLqTch8fPKX&s=10" group-title="EVENTOS DEL DÍA", 15:00 | Bristol city vs Watford
+http://goflixpro.com:8080/live/paul981237950/paul2204/561252.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/66McpzdB/image.png" group-title="EVENTOS DEL DÍA", EVENTO 10 | Amistoso | 20:00pm UTC-5 | Int3r Mi4mi Vs Ind3pendiente del V4lle | Opcion 2
-http://goflixpro.com:8080/live/paul981237950/paul2204/561276.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imagenes.primicias.ec/files/image_480_270/files/fp/uploads/2025/07/07/686c6df96dfcb.r_d.1541-1108-1603.jpeg" group-title="EVENTOS DEL DÍA", 19:00 | Tecnico universitario vs Orense
+
+
