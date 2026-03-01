@@ -1,7 +1,100 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaRzrc6993UQjwlNmU_6BQS2TVGzqLBFirolxObepODg&s=10" group-title="EVENTOS DEL DÍA", 16:40 | GUAYAQUIL CITY VS AUCAS
-http://goflixpro.com:8080/live/paul981237950/paul2204/321.ts
+# Eventos con link al primer reproductor (abre en Chrome, F12 → Network → m3u8)
+# Generado automáticamente - AdriJr175
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE_4tmtnvg6QnuTdyIgu0pKYDBUVniYCbR8opQlwFbmxEn2EkSmsZPCVo&s=10" group-title="EVENTOS DEL DÍA", 19:30 | EMELEC VS DELFIN
-http://goflixpro.com:8080/live/paul981237950/paul2204/506547.ts
+#EXTINF:-1,Bundesliga: Hamburger SV vs RB Leipzig19:30Disney+Calidad 720p 
+https://streamtp501.com/global1.php?stream=disney1
+
+#EXTINF:-1,Liga BetPlay: Deportivo Pasto vs CÃºcuta Deportivo20:00Win Sports +Calidad 720pWin Sports + Op2Calidad 720pWin Sports + Op3Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly9zdHJlYW14MTAuY2xvdWQvZ2xvYmFsMS5waHA_Y2hhbm5lbD13aW5wbHVz
+
+#EXTINF:-1,Serie A: Roma vs Juventus20:45Disney+Calidad 720pESPNCalidad 720pESPN Op2Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly9zdHJlYW14MTAuY2xvdWQvZ2xvYmFsMS5waHA_Y2hhbm5lbD1lc3Bu
+
+#EXTINF:-1,Ligue 1: Olympique Marseille vs Olympique Lyonnais20:45Disney+Calidad 720pFOX OneCalidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly9zdHJlYW14MTAuY2xvdWQvZ2xvYmFsMS5waHA_Y2hhbm5lbD1mb3hvbmUx
+
+#EXTINF:-1,Liga Profesional: Newell's Old Boys vs Rosario Central21:00ESPN PremiumCalidad 720pESPN Premium Op2Calidad 720pESPN Premium Op3Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA_c3RyZWFtPWVzcG5wcmVtaXVt
+
+#EXTINF:-1,LaLiga: Girona vs Celta de Vigo21:00DSportsCalidad 720pESPN+Calidad 720pESPN+ Op2Calidad 720pDSports Op2Calidad 720pESPN DeportesCalidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly9zdHJlYW14MTAuY2xvdWQvZ2xvYmFsMS5waHA_Y2hhbm5lbD1lc3BuZGVwb3J0ZXM
+
+#EXTINF:-1,Campeonato GaÃºcho: GaÃºcho: GrÃªmio vs Internacional21:00Premiere 1Calidad 720pPremiere 1 Op2Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly9zdHJlYW14MTAuY2xvdWQvZ2xvYmFsMS5waHA_Y2hhbm5lbD1wcmVtaWVyZTE
+
+#EXTINF:-1,Liga 1: Juan Pablo II College vs Cusco21:30Liga 1 MAXCalidad 720pLiga 1 MAX Op2Calidad 720p 
+http://abre-en-chrome-para-pillar-m3u8
+
+#EXTINF:-1,Liga 1 MAXCalidad 720p 
+http://abre-en-chrome-para-pillar-m3u8
+
+#EXTINF:-1,Liga 1 MAX Op2Calidad 720p 
+http://abre-en-chrome-para-pillar-m3u8
+
+#EXTINF:-1,NBA: Timberwolves vs Nuggets21:30ESPN 3Calidad 720pESPN 3 Op2Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly9zdHJlYW14MTAuY2xvdWQvZ2xvYmFsMS5waHA_Y2hhbm5lbD1lc3BuMw
+
+#EXTINF:-1,Liga de Primera: Colo-Colo vs Universidad Chile22:00MAXCalidad 720pMAX Op2Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly9zdHJlYW14MTAuY2xvdWQvZ2xvYmFsMS5waHA_Y2hhbm5lbD1tYXgz
+
+#EXTINF:-1,Liga BetPlay: Rionegro Ãguilas vs Inter BogotÃ¡22:00Win Sports +Calidad 720pWin Sports + Op2Calidad 720pWin Sports + Op3Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly9zdHJlYW14MTAuY2xvdWQvZ2xvYmFsMS5waHA_Y2hhbm5lbD13aW5wbHVz
+
+#EXTINF:-1,Campeonato Carioca: Fluminense vs Vasco da Gama22:00Premiere 2Calidad 720pPremiere 2 Op2Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly9zdHJlYW14MTAuY2xvdWQvZ2xvYmFsMS5waHA_Y2hhbm5lbD1wcmVtaWVyZTI
+
+#EXTINF:-1,Campeonato Mineiro: AmÃ©rica Mineiro vs AtlÃ©tico Mineiro22:00Premiere 3Calidad 720pPremiere 3 Op2Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly9zdHJlYW14MTAuY2xvdWQvZ2xvYmFsMS5waHA_Y2hhbm5lbD1wcmVtaWVyZTM
+
+#EXTINF:-1,Liga Profesional: Instituto vs UniÃ³n Santa Fe23:15ESPN PremiumCalidad 720pESPN Premium Op2Calidad 720pESPN Premium Op3Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA_c3RyZWFtPWVzcG5wcmVtaXVt
+
+#EXTINF:-1,Liga Profesional: Argentinos Juniors vs Barracas Central23:15TNT SportsCalidad 720pTNT Sports Op2Calidad 720pTNT Sports Op3Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA_c3RyZWFtPXRudHNwb3J0cw
+
+#EXTINF:-1,Serie A: Deportivo Cuenca vs Barcelona23:00ECDFCalidad 720p 
+https://bolaloca.my/player/1/86
+
+#EXTINF:-1,Primera DivisiÃ³n: Nacional vs PeÃ±arol23:30Disney+Calidad 720p 
+https://streamtp10.com/global1.php?stream=disney4
+
+#EXTINF:-1,Liga 1: Universitario vs FC Cajamarca00:00Liga 1 MAXCalidad 720pLiga 1 MAX Op2Calidad 720p 
+http://abre-en-chrome-para-pillar-m3u8
+
+#EXTINF:-1,Liga 1 MAXCalidad 720p 
+http://abre-en-chrome-para-pillar-m3u8
+
+#EXTINF:-1,Liga 1 MAX Op2Calidad 720p 
+http://abre-en-chrome-para-pillar-m3u8
+
+#EXTINF:-1,NBA: 76ers vs Celtics00:00MAXCalidad 720p 
+https://streamtp10.com/global1.php?stream=max1
+
+#EXTINF:-1,Liga BetPlay: Deportivo Cali vs Fortaleza CEIF00:10Win Sports +Calidad 720pWin Sports + Op2Calidad 720pWin Sports + Op3Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly9zdHJlYW14MTAuY2xvdWQvZ2xvYmFsMS5waHA_Y2hhbm5lbD13aW5wbHVz
+
+#EXTINF:-1,Liga de Primera: Ãublense vs Universidad CatÃ³lica00:30MAXCalidad 720pMAX Op2Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly9zdHJlYW14MTAuY2xvdWQvZ2xvYmFsMS5waHA_Y2hhbm5lbD1tYXg0
+
+#EXTINF:-1,Campeonato Paulista A1: Palmeiras vs SÃ£o Paulo00:30MAXCalidad 720pMAX Op2Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly9zdHJlYW14MTAuY2xvdWQvZ2xvYmFsMS5waHA_Y2hhbm5lbD1tYXg1
+
+#EXTINF:-1,MLS: Orlando City SC vs Inter Miami01:00MLSCalidad 720pMLS Op2Calidad 720p 
+http://abre-en-chrome-para-pillar-m3u8
+
+#EXTINF:-1,MLSCalidad 720p 
+http://abre-en-chrome-para-pillar-m3u8
+
+#EXTINF:-1,MLS Op2Calidad 720p 
+http://abre-en-chrome-para-pillar-m3u8
+
+#EXTINF:-1,Liga Profesional: Defensa y Justicia vs LanÃºs01:30ESPN PremiumCalidad 720pESPN Premium Op2Calidad 720pESPN Premium Op3Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA_c3RyZWFtPWVzcG5wcmVtaXVt
+
+#EXTINF:-1,Liga Profesional: Tigre vs Gimnasia La Plata01:30TNT SportsCalidad 720pTNT Sports Op2Calidad 720pTNT Sports Op3Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA_c3RyZWFtPXRudHNwb3J0cw
+
+#EXTINF:-1,Liga BetPlay: Deportes Tolima vs AtlÃ©tico Nacional02:30Win Sports +Calidad 720pWin Sports + Op2Calidad 720pWin Sports + Op3Calidad 720p 
+https://tupelotalibre.com/embed/eventos/?r=aHR0cHM6Ly9zdHJlYW14MTAuY2xvdWQvZ2xvYmFsMS5waHA_Y2hhbm5lbD13aW5wbHVz
 
