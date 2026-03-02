@@ -1,5 +1,5 @@
 #EXTM3U
-# Solo Equipo A vs Equipo B - con logo de liga detectada
+# Solo Equipo A vs Equipo B - con logo de liga
 # Generado por AdriJr175
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png",Instituto vs Unión Santa Fe
@@ -26,7 +26,7 @@ http://abre-en-chrome-para-pillar-m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Primera: Ãublense vs Universidad Católica
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Campeonato_Paulista_logo.svg/512px-Campeonato_Paulista_logo.svg.png",Campeonato Paulista A1: Palmeiras vs São Paulo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Campeonato_Paulista_logo.svg/512px-Campeonato_Paulista_logo.svg.png",Palmeiras vs São Paulo
 http://abre-en-chrome-para-pillar-m3u8
 
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",MLS: Orlando City SC vs Inter Miami
