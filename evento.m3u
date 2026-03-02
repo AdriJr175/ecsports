@@ -1,31 +1,31 @@
 #EXTM3U
-# Solo Equipo A vs Equipo B - con logo de liga detectada
+# Solo Equipo A vs Equipo B - con logo real extraído de la página
 # Generado por AdriJr175
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Serie A: Pisa vs Bologna
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Pisa vs Bologna18:30
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Serie A: Udinese vs Fiorentina
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Udinese vs Fiorentina20:45
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",LaLiga: Real Madrid vs Getafe
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Real Madrid vs Getafe21:00
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png",Deportivo Riestra vs Platense
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Liga Profesional: Deportivo Riestra vs Platense23:15
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png",Estudiantes vs Vélez Sarsfield
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Liga Profesional: Estudiantes vs VÃ©lez Sarsfield23:15
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSoqzRMNTcM5h0i2VM3WabsDrvexOYIWnAmcGAveixMQ&s=10",Primera División: Deportivo Maldonado vs Juventud
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Primera DivisiÃ³n: Deportivo Maldonado vs Juventud00:00
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Serie A: Manta vs Independiente del Valle
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Manta vs Independiente del Valle01:30
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png",Independiente Rivadavia vs River Plate
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Liga Profesional: Independiente Rivadavia vs River Plate01:30
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png",Banfield vs Aldosivi
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Liga Profesional: Banfield vs Aldosivi01:30
 http://abre-en-chrome-para-pillar-m3u8
 
