@@ -1,31 +1,31 @@
 #EXTM3U
-# Solo Equipo A vs Equipo B - con logo real extraído de la página
+# Solo Equipo A vs Equipo B - ultra limpio
 # Generado por AdriJr175
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Pisa vs Bologna18:30
+#EXTINF:-1,Pisa vs Bologna
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Udinese vs Fiorentina20:45
+#EXTINF:-1,Udinese vs Fiorentina
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Real Madrid vs Getafe21:00
+#EXTINF:-1,Real Madrid vs Getafe
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Liga Profesional: Deportivo Riestra vs Platense23:15
+#EXTINF:-1,Deportivo Riestra vs Platense
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Liga Profesional: Estudiantes vs VÃ©lez Sarsfield23:15
+#EXTINF:-1,Estudiantes vs Vélez Sarsfield
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Primera DivisiÃ³n: Deportivo Maldonado vs Juventud00:00
+#EXTINF:-1,Deportivo Maldonado vs Juventud
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Manta vs Independiente del Valle01:30
+#EXTINF:-1,Manta vs Independiente del Valle
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Liga Profesional: Independiente Rivadavia vs River Plate01:30
+#EXTINF:-1,Independiente Rivadavia vs River Plate
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Liga Profesional: Banfield vs Aldosivi01:30
+#EXTINF:-1,Banfield vs Aldosivi
 http://abre-en-chrome-para-pillar-m3u8
 
