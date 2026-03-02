@@ -1,31 +1,31 @@
 #EXTM3U
-# Solo Equipo A vs Equipo B - ultra limpio
+# Solo Equipo A vs Equipo B - con logo de liga
 # Generado por AdriJr175
 
-#EXTINF:-1,Pisa vs Bologna
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3snazmlnx1p2oosblYBqYZ0Hz4vAjI942iHtpAYefA&s=10",Serie A: Pisa vs Bologna
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Udinese vs Fiorentina
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3snazmlnx1p2oosblYBqYZ0Hz4vAjI942iHtpAYefA&s=10",Serie A: Udinese vs Fiorentina
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Real Madrid vs Getafe
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",LaLiga: Real Madrid vs Getafe
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Deportivo Riestra vs Platense
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png",Deportivo Riestra vs Platense
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Estudiantes vs Vélez Sarsfield
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png",Estudiantes vs Vélez Sarsfield
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Deportivo Maldonado vs Juventud
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSoqzRMNTcM5h0i2VM3WabsDrvexOYIWnAmcGAveixMQ&s=10",Primera División: Deportivo Maldonado vs Juventud
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Manta vs Independiente del Valle
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3snazmlnx1p2oosblYBqYZ0Hz4vAjI942iHtpAYefA&s=10",Serie A: Manta vs Independiente del Valle
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Independiente Rivadavia vs River Plate
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png",Independiente Rivadavia vs River Plate
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Banfield vs Aldosivi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png",Banfield vs Aldosivi
 http://abre-en-chrome-para-pillar-m3u8
 
