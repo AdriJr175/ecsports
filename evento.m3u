@@ -1,11 +1,11 @@
 #EXTM3U
-# Solo Equipo A vs Equipo B - con logo de liga
+# Solo Equipo A vs Equipo B - con logo de liga detectada
 # Generado por AdriJr175
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Instituto vs Unión Santa Fe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png",Instituto vs Unión Santa Fe
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Argentinos Juniors vs Barracas Central
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png",Argentinos Juniors vs Barracas Central
 http://abre-en-chrome-para-pillar-m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3snazmlnx1p2oosblYBqYZ0Hz4vAjI942iHtpAYefA&s=10",Serie A: Deportivo Cuenca vs Barcelona
@@ -23,7 +23,7 @@ http://abre-en-chrome-para-pillar-m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Deportivo Cali vs Fortaleza CEIF
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Liga de Primera: Ãublense vs Universidad Católica
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Primera: Ãublense vs Universidad Católica
 http://abre-en-chrome-para-pillar-m3u8
 
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Campeonato Paulista A1: Palmeiras vs São Paulo
@@ -32,10 +32,10 @@ http://abre-en-chrome-para-pillar-m3u8
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",MLS: Orlando City SC vs Inter Miami
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Defensa y Justicia vs Lanús
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png",Defensa y Justicia vs Lanús
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Tigre vs Gimnasia La Plata
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png",Tigre vs Gimnasia La Plata
 http://abre-en-chrome-para-pillar-m3u8
 
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Deportes Tolima vs Atlético Nacional
