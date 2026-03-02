@@ -1,43 +1,43 @@
 #EXTM3U
-# Solo partidos: Equipo A vs Equipo B
-# Generado por AdriJr175 - sin hora ni liga
+# Lista limpia - solo vs con logo de liga
+# Generado por AdriJr175
 
-#EXTINF:-1,Liga Profesional: Instituto vs Unión Santa Fe
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Liga",Liga Profesional: Instituto vs Unión Santa Fe
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Liga Profesional: Argentinos Juniors vs Barracas Central
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Liga",Liga Profesional: Argentinos Juniors vs Barracas Central
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Deportivo Cuenca vs Barcelona
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Liga",Deportivo Cuenca vs Barcelona
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Primera División: Nacional vs Peñarol
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Liga",Primera División: Nacional vs Peñarol
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Liga 1: Universitario vs FC Cajamarca
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Liga",Liga 1: Universitario vs FC Cajamarca
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,76ers vs Celtics
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Liga",76ers vs Celtics
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Liga BetPlay: Deportivo Cali vs Fortaleza CEIF
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Liga_BetPlay_Dimayor.svg/512px-Liga_BetPlay_Dimayor.svg.png",Liga BetPlay: Deportivo Cali vs Fortaleza CEIF
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Liga de Primera: Ãublense vs Universidad Católica
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Liga",Liga de Primera: Ãublense vs Universidad Católica
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Campeonato Paulista A1: Palmeiras vs São Paulo
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Liga",Campeonato Paulista A1: Palmeiras vs São Paulo
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Orlando City SC vs Inter Miami
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Liga",Orlando City SC vs Inter Miami
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Liga Profesional: Defensa y Justicia vs Lanús
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Liga",Liga Profesional: Defensa y Justicia vs Lanús
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Liga Profesional: Tigre vs Gimnasia La Plata
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Liga",Liga Profesional: Tigre vs Gimnasia La Plata
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Liga BetPlay: Deportes Tolima vs Atlético Nacional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Liga_BetPlay_Dimayor.svg/512px-Liga_BetPlay_Dimayor.svg.png",Liga BetPlay: Deportes Tolima vs Atlético Nacional
 http://abre-en-chrome-para-pillar-m3u8
 
