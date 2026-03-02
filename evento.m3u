@@ -1,43 +1,43 @@
 #EXTM3U
-# Solo Equipo A vs Equipo B - sin liga, sin hora, sin nada
+# Solo Equipo A vs Equipo B - con logo de liga
 # Generado por AdriJr175
 
-#EXTINF:-1,Instituto vs Unión Santa Fe
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Instituto vs Unión Santa Fe
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Argentinos Juniors vs Barracas Central
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Argentinos Juniors vs Barracas Central
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Serie A: Deportivo Cuenca vs Barcelona
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Serie A: Deportivo Cuenca vs Barcelona
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Primera División: Nacional vs Peñarol
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Primera División: Nacional vs Peñarol
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Liga 1: Universitario vs FC Cajamarca
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Liga 1: Universitario vs FC Cajamarca
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,NBA: 76ers vs Celtics
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",NBA: 76ers vs Celtics
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Deportivo Cali vs Fortaleza CEIF
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Deportivo Cali vs Fortaleza CEIF
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Primera: Ãublense vs Universidad Católica
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Liga de Primera: Ãublense vs Universidad Católica
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Campeonato Paulista A1: Palmeiras vs São Paulo
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Campeonato Paulista A1: Palmeiras vs São Paulo
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,MLS: Orlando City SC vs Inter Miami
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",MLS: Orlando City SC vs Inter Miami
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Defensa y Justicia vs Lanús
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Defensa y Justicia vs Lanús
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Tigre vs Gimnasia La Plata
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Tigre vs Gimnasia La Plata
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1,Deportes Tolima vs Atlético Nacional
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Deportes Tolima vs Atlético Nacional
 http://abre-en-chrome-para-pillar-m3u8
 
