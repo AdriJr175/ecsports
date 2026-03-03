@@ -1,5 +1,5 @@
 #EXTM3U
-# FluxTv - Lista completa + manual por AdriJr175
+# FluxTv - Eventos seleccionados + manuales
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEmaWgowY3_AipugmA6UuKZ6KdxywOKbhTHz-RsroehWPwIHLDfsMtcNc&s=10" group-title="Premier League",Premier League: AFC Bournemouth vs Brentford
 http://abre-en-chrome-para-pillar-m3u8
@@ -16,30 +16,24 @@ http://abre-en-chrome-para-pillar-m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEmaWgowY3_AipugmA6UuKZ6KdxywOKbhTHz-RsroehWPwIHLDfsMtcNc&s=10" group-title="Premier League",Premier League: Wolverhampton vs Liverpool
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png" group-title="Liga Profesional",Sarmiento vs Estudiantes Río Cuarto
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png" group-title="Liga Profesional",Sarmiento vs Estudiantes RÃ­o Cuarto
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png" group-title="Liga Profesional",Huracán vs Belgrano
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png" group-title="Liga Profesional",HuracÃ¡n vs Belgrano
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png" group-title="Liga Profesional",Atlético Tucumán vs Racing Club
-http://abre-en-chrome-para-pillar-m3u8
-
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido" group-title="Otros",NBA: Spurs vs 76ers
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png" group-title="Liga Profesional",AtlÃ©tico TucumÃ¡n vs Racing Club
 http://abre-en-chrome-para-pillar-m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_lhrgNqkW5-rrXrHzON210MQkL-Kgrkgs2lwqHTelYBcDntKzy18NuxL&s=10" group-title="Otros",Santos Laguna vs Cruz Azul
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_lhrgNqkW5-rrXrHzON210MQkL-Kgrkgs2lwqHTelYBcDntKzy18NuxL&s=10" group-title="Otros",Atlético San Luis vs Mazatlán
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido" group-title="Otros",AtlÃ©tico San Luis vs MazatlÃ¡n
 http://abre-en-chrome-para-pillar-m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_lhrgNqkW5-rrXrHzON210MQkL-Kgrkgs2lwqHTelYBcDntKzy18NuxL&s=10" group-title="Otros",Pumas UNAM vs Toluca
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido" group-title="Otros",NBA: Suns vs Kings
-http://abre-en-chrome-para-pillar-m3u8
-
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Evento+Manual" group-title="Manual",Barcelona Vs Botafogo
+#EXTINF:-1 tvg-logo="import requests" group-title="from bs4 import BeautifulSoup",Copa Del Rey | Fc Barcelona vs Atletico Madrid
 http://abre-en-chrome-para-pillar-m3u8
 
