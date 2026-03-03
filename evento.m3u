@@ -1,21 +1,22 @@
 #EXTM3U
-# FluxTv - Lista automática por AdriJr175
+# Lista interactiva - logos por evento
+# Generado por AdriJr175
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png" group-title="Liga Profesional",Deportivo Riestra vs Platense
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Deportivo Riestra vs Platense
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png" group-title="Liga Profesional",Estudiantes vs Vélez Sarsfield
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Estudiantes vs Vélez Sarsfield
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido" group-title="Otros",Primera División: Deportivo Maldonado vs Juventud
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Primera División: Deportivo Maldonado vs Juventud
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido" group-title="Otros",Serie A: Manta vs Independiente del Valle
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Serie A: Manta vs Independiente del Valle
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png" group-title="Liga Profesional",Independiente Rivadavia vs River Plate
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Independiente Rivadavia vs River Plate
 http://abre-en-chrome-para-pillar-m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png" group-title="Liga Profesional",Banfield vs Aldosivi
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido",Banfield vs Aldosivi
 http://abre-en-chrome-para-pillar-m3u8
 
