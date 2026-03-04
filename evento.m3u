@@ -1,6 +1,9 @@
 #EXTM3U
 # FluxTv - Eventos seleccionados + manuales
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTooKF2iFiq8v_tQgEaMbrNTRGZWqYBSoWxTYg26iLGAA&s=10" group-title="Copa Libertadores",Barcelona vs Botafogo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Campeonato_Paulista_logo.svg/512px-Campeonato_Paulista_logo.svg.png" group-title="Campeonato Paulista",Palmeiras vs Novorizontino
+http://abre-en-chrome-para-pillar-m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29.png" group-title="Liga Profesional",LanÃºs vs Boca Juniors
 http://abre-en-chrome-para-pillar-m3u8
 
