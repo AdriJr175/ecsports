@@ -1,6 +1,12 @@
 #EXTM3U
 # FluxTv - 3 OPCIONES (OPC1 AppCreator | OPC2 Iframe | OPC3 m3u8)
 
-#EXTINF:-1 tvg-logo="https://www.colombia.com/images/v2/futbol/liga-colombiana/BetPlay-Dimayor.jpg" group-title="Liga BetPlay",Deportes Tolima vs Santa Fe
-https://streamtp10.com/global1.php?stream=espn
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEmaWgowY3_AipugmA6UuKZ6KdxywOKbhTHz-RsroehWPwIHLDfsMtcNc&s=10" group-title="Premier League",Premier League: Tottenham Hotspur vs Crystal Palace
+https://streamgo10.cloud/canales.php?stream=espn#
+
+#EXTINF:-1 tvg-logo="Copa Sudamericana" group-title="Copa Sudamericana",Baston River vs Racing
+https://streamgo10.cloud/canales.php?stream=dsports#
+
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido" group-title="Copa Sudamericana",Orense vs Macara
+https://streamgo10.cloud/canales.php?stream=dsports#
 
