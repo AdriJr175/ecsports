@@ -1,9 +1,9 @@
 #EXTM3U
-# FluxTv - Eventos seleccionados + manuales
+# FluxTv - Eventos con link OPC2 personalizado
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido" group-title="Otros",Puebla vs Tigres UANL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Campeonato_Paulista_logo.svg/512px-Campeonato_Paulista_logo.svg.png" group-title="Campeonato Paulista",Palmeiras vs Novorizontino
 http://abre-en-chrome-para-pillar-m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQLmlWrDXnG5N0C_N5LmXGraJfKS8T3BYD49ZRZZRBGg&s=10" group-title="Copa Sudamericana",Cuenca vs Libertad
-http://abre-en-chrome-para-pillar-m3u8
+https://streamtp10.com/global1.php?stream=fanatiz4
 
