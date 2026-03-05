@@ -1,9 +1,6 @@
 #EXTM3U
 # FluxTv - 3 OPCIONES (OPC1 AppCreator | OPC2 Iframe | OPC3 m3u8)
 
-#EXTINF:-1 tvg-logo="https://www.colombia.com/images/v2/futbol/liga-colombiana/BetPlay-Dimayor.jpg" group-title="Liga BetPlay",Llaneros vs Inter BogotÃ¡
-http://sin-link
-
-#EXTINF:-1 tvg-logo="https://www.colombia.com/images/v2/futbol/liga-colombiana/BetPlay-Dimayor.jpg" group-title="Liga BetPlay",Junior vs Alianza
-https://bolaloca.my/player/2/87
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido" group-title="Copa Sudamericana",Macara vs Orense
+https://bolaloca.my/player/2/88
 
