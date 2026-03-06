@@ -1,9 +1,6 @@
 #EXTM3U
 # FluxTv - 3 OPCIONES (OPC1 AppCreator | OPC2 Iframe | OPC3 m3u8)
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido" group-title="Copa Sudamericana",Macara vs Orense op1
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido" group-title="Copa Sudamericana",21:00 | Macara vs Orense
 https://bolaloca.my/player/2/88
-
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido" group-title="Otros",Macara vs Orense
-http://sin-link
 
