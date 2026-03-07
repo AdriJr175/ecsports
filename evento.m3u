@@ -1,15 +1,12 @@
 #EXTM3U
-# FluxTv - 3 OPCIONES (Manual) - OPC2 + OPC3 separados
+# FluxTv - Agenda Manual (m3u8 directo)
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTjqVf68WNR0g4OcTBaKnRXZCx6g0Vd1NOcflqcM1hrnfsrXCt1eroDp8&s=10" group-title="LaLiga",15:00 - Atlhetic Club Vs Barcelona (OPC2 - Iframe)
-https://embed.ksdjugfsddeports.com/embed2/directvsports.html
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTjqVf68WNR0g4OcTBaKnRXZCx6g0Vd1NOcflqcM1hrnfsrXCt1eroDp8&s=10" group-title="LaLiga",15:00 - Atlhetic Club Vs Barcelona (OPC3 - m3u8)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTjqVf68WNR0g4OcTBaKnRXZCx6g0Vd1NOcflqcM1hrnfsrXCt1eroDp8&s=10" group-title="LaLiga",15:00 - Atlhetic Club Vs Barcelona
 http://199.127.63.143:25461/get/GaEVfObPJU25gppM7s_0D1dkZURqWEsvZkkvUDZOTzd0L3hHMlBzL09hNEVmSzBFclVXb2VZWkVjQ2xiVmg1STJLZ2M4cGhCZUozKytkc0JiTVZKWmw5T2laMG92L251SGZiRitBPT0.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/card_img/2030052872218439681/G_Y4y7YC?format=jpg&name=orig" group-title="LigaPro",16:30 - Barcelona vs Emelec (OPC2 - Iframe)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/card_img/2030052872218439681/G_Y4y7YC?format=jpg&name=orig" group-title="LigaPro",16:30 - Barcelona vs Emelec
 https://bolaloca.my/player/2/86
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOQ_MSV3BVoRjcIW7FEd4-3_GlMf8_QmOR5HdyAU6-0w&s=10" group-title="LigaPro",16:30 - Independiente Del Valle vs Mushuc Runa (OPC2 - Iframe)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOQ_MSV3BVoRjcIW7FEd4-3_GlMf8_QmOR5HdyAU6-0w&s=10" group-title="LigaPro",16:30 - IDV vs Mushuc Runa
 https://bolaloca.my/player/2/86
 
