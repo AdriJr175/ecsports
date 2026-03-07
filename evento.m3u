@@ -1,8 +1,8 @@
 #EXTM3U
 # FluxTv - 3 OPCIONES (Manual)
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/512x512/000000/FFFFFF?text=Partido" group-title="LaLiga",15:00 - Atlhetic Club Vs Barcelona
-https://embed.ksdjugfsddeports.com/embed2/directvsports.html
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTjqVf68WNR0g4OcTBaKnRXZCx6g0Vd1NOcflqcM1hrnfsrXCt1eroDp8&s=10" group-title="LaLiga",15:00 - Atlhetic Club Vs Barcelona
+http://199.127.63.143:25461/get/GaEVfObPJU25gppM7s_0D1dkZURqWEsvZkkvUDZOTzd0L3hHMlBzL09hNEVmSzBFclVXb2VZWkVjQ2xiVmg1STJLZ2M4cGhCZUozKytkc0JiTVZKWmw5T2laMG92L251SGZiRitBPT0.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRcS2AHxGC_7ya2vbgsDyQMQ7gm_VhJLuwHQ&s" group-title="LigaPro",16:30 - Barcelona vs Emelec
 https://bolaloca.my/player/2/86
