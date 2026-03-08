@@ -1,5 +1,5 @@
 #EXTM3U
 # FluxTv - Canales 24/7
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM6IZ43EPd27vHODJrOwS8UTJQFkvCsfI49WBuW45PsA&s=10" group-title="Ecuador",Teleamazonas
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM6IZ4..." group-title="Ecuador",Teleamazonas
 http://45.90.106.85:9090/279331_.m3u8
