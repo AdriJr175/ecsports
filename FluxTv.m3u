@@ -1,5 +1,5 @@
 #EXTM3U
 # FluxTv - Canales 24/7
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="Ecuador",teleamazonas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="Ecuador",Sin nombre
 http://45.90.106.85:9090/279331_.m3u8
